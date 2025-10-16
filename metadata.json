@@ -1,0 +1,5 @@
+{
+  "name": "AI Spam Mail Detection",
+  "description": "An intelligent web application that uses the Gemini API to analyze email content and predict whether it is spam or not, providing a detailed reason for its classification.",
+  "requestFramePermissions": []
+}
